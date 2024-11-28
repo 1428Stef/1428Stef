@@ -1,6 +1,6 @@
-# 👋 Hi! I'm [Your Name]  
+# 👋 Hi! I'm Stef1428  
 
-<img src="https://steamuserimages-a.akamaihd.net/ugc/2455105361954166344/AD4F3BE2DD7473D1C1D56F743215D9DC73A273A7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="300" alt="gif">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/2455105361954166344/AD4F3BE2DD7473D1C1D56F743215D9DC73A273A7/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="800" alt="gif">
 
 - 💻 **Web Developer** passionate about building responsive and interactive websites.  
 - 🌱 Constantly learning new technologies and frameworks to enhance my skills.  
