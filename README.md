@@ -20,6 +20,7 @@ Discord: @stepaniodisc0rd
 </br>
 **web development and go**
 </br>
+`1428☆*: .｡. o(≧▽≦)o .｡.:*☆`
 </td>
 </tr>
 </table>
