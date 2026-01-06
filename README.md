@@ -1,26 +1,18 @@
-<table align="center">
-<tr>
-<td>
+<p align="center">
+  <img src="profile.png" width="400" />
+</p>
 
-### Hi, my name is Stef  
-*aka: YonHachi, 1428, 1428Stef*  
+<p align="center">Junior Developer | Looking for an internship</p>
+<p align="center">My stack:</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,go,js,python,nodejs&perline=3" />
+</p>
+<br>
+<p align="center"><strong>About me:</strong></p>
 
----
-
-**Skills**  
-
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,go,js,python,nodejs,c&perline=3)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=blender,vscode,obsidian,figma&perline=3)](https://skillicons.dev)
-
-Website: <a href="https://1428stef.github.io/WikiHachi/">WikiHachi</a>
-</br>
-Discord: @stepaniodisc0rd
-</br>
-**web development and go**
-</br>
-`1428☆*: .｡. o(≧▽≦)o .｡.:*☆`
-</td>
-</tr>
-</table>
+<p align="center">
+• 🎓 Web developer student<br>
+• 👨‍💻 Open to internship opportunities<br>
+• 📚 Always learning and coding by practice<br>
+• Lol I'm so cool ^_~
+</p>
