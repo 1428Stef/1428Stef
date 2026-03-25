@@ -1,7 +1,7 @@
 <p align="center">Junior Developer | Looking for an internship</p>
 <p align="center">My stack:</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,go,js,python,nodejs,ts&perline=3" />
+  <img src="https://skillicons.dev/icons?i=html,css,go,js,python,nodejs,ts,git&perline=3" />
 </p>
 <br>
 <p align="center"><strong>About me:</strong></p>
