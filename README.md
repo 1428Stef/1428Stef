@@ -1,4 +1,4 @@
-<p align="center">Backend Junior Developer | Looking for an internship</p>
+<p align="center">Backend-developer (junior) | Looking for an internship</p>
 <p align="center">My stack:</p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,go,js,python,nodejs,ts,git,bun&perline=3" />
